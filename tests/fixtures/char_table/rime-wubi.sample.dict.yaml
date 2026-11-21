@@ -1,0 +1,46 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: wubi86
+version: "fixture"
+sort: by_weight
+columns:
+  - text
+  - code
+  - weight
+  - stem
+...
+
+一	g	2015124793	gg
+人	w	1002212710	ww
+大	dd	559769912
+一	ggl	2830000000
+丁	sgh	90500000
+大	dddd	1790000000
+一	ggll	2830000000
+卵	qyt	42100000
+卵	qyty	42100000
+囱	tlqi	399000
+窗	pwt	194000000
+窗	pwtq	194000000
+迎	qbp	83200000
+迎	qbpk	83200000
+酿	sgye	13500000
+墼	gjff	132000
+孳	uxxb	824000
+枰	sgu	1720000
+枰	sguh	1720000
+盥	qgi	254000
+盥	qgil	254000
+缌	xlny	278000
+蔻	apfl	12100000
+靥	dddl	1400000
+栻	saag	118000
+㐀	gjgg	17200
+㐁	glwi	7020
+蠼	jhhc	224000
+﨑	mukh	802000
+龘	uegd	110000
+人	wwww	2390000000
+à	zzpy	609
